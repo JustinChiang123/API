@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#434343</color>
+    <color name="colorPrimaryDark">#030303</color>
+    <color name="colorAccent">#b5000000</color>
+    <color name="colorBtn">#ff3b3b</color>
+    <color name="colorTitle">#030303</color>
+
+
+    <color name="app_zt_white">#ffffff</color>
+    <color name="app_zt_bule">#3899E9</color>
+    <color name="app_zt_red">#ff3b3b</color>
+    <color name="app_zt_black">#0e0e0e</color>
+    <color name="app_zt_glay">#c6c6c6</color>
+    <color name="app_zt_deep_glay">#6e6d6d</color>
+    <color name="app_zt_orange">#ff8315</color>
+    <color name="app_zt_yellow">#f7d436</color>
+    <color name="app_zt_violet">#bb66e9</color>
+
+    <color name="app_bg_white">#ffffff</color>
+    <color name="app_bg_black">#363737</color>
+    <color name="app_bg_glay">#f4f4f4</color>
+    <color name="app_bg_deep_glay">#ededed</color>
+    <color name="app_bg_violet">#bb66e9</color>
+    <color name="app_bg_deep_violet">#8146a1</color>
+    <color name="app_bg_yellow">#ffe15b</color>
+
+    <!--app公共toolbar背景色-->
+    <color name="app_bg_toolbar">#ffffff</color>
+    <!--app公共toolbar_中间文字颜色-->
+    <color name="app_zt_toolbar_center">#0e0e0e</color>
+
+</resources>
